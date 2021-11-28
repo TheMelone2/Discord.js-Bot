@@ -7,7 +7,7 @@ client.on("ready", () => {
   console.log("Bot is ready!")
 
 
-  client.user.setActivity(` against the Scammers `, { type: "COMPETTING" })
+  client.user.setActivity(` against the Scammers `, { type: "PLAYING" })
 
 
 });
