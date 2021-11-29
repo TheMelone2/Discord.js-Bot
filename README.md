@@ -1,4 +1,7 @@
-# DiscordBot
+# Discord.js Bot Free Template :D
+My Bot:
+https://bit.ly/Invite-Discord-Bot
+
 Stream on: https://www.youtube.com/channel/UCiSiKPVFYOFJRWCOpwiY0FA
 
 Support Discord: https://discord.gg/3THYvnDy9D
